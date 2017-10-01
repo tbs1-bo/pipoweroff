@@ -1,21 +1,21 @@
 # Pi Power Off
 
-Turn of you Pi with a button.
+Turn off your Pi with a button.
 
 ## Installation
 
 On the Pi install
 [bluedot](https://bluedot.readthedocs.io/en/latest/gettingstarted.html) and
-smbus.
+dbus.
 
     $ sudo pip3 install bluedot
 	$ sudo apt install python3-dbus
 	
-Copy the file `bluedot_handler.py` into place
+Copy the file `bluedot_handler.py` into the desired place
 
-    $ cp bluedot_handler.py ~/bin
+    $ cp bluedot_handler.py ~/bin/
 
-Create a cronjob that start the handlery on reboot of the Pi.
+Create a cronjob that starts the handler on reboot of the Pi.
 
     $ crontab -e -u pi
 	
