@@ -2,7 +2,7 @@
 
 Turn off your Pi with a button.
 
-## Installation
+## Installation on the Pi
 
 On the Pi install
 [bluedot](https://bluedot.readthedocs.io/en/latest/gettingstarted.html) and
@@ -27,7 +27,7 @@ Pair your phone as described
 [here](https://bluedot.readthedocs.io/en/latest/pairpiandroid.html)
 
 
-## On your android smartphone
+## Installation on your android smartphone
 
 Install the
 [Bluedot Android App](https://bluedot.readthedocs.io/en/latest/bluedotandroidapp.html). 
