@@ -33,3 +33,9 @@ Install the
 [Bluedot Android App](https://bluedot.readthedocs.io/en/latest/bluedotandroidapp.html). 
 When your start the app and connect to your device, the blue button
 will shut down the pi.
+
+## Links
+
+- [pi-shutdown](https://github.com/gilyes/pi-shutdown/) is a similar
+  project that allows to shudwon the pi by connecting to pin with a
+  jumper or a button.
