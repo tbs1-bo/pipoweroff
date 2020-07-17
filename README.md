@@ -37,5 +37,5 @@ will shut down the pi.
 ## Links
 
 - [pi-shutdown](https://github.com/gilyes/pi-shutdown/) is a similar
-  project that allows to shudwon the pi by connecting to pin with a
+  project that allows to shutdown the Pi by connecting pins with a
   jumper or a button.
